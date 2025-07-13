@@ -1,33 +1,53 @@
-<p align="center">
-  <img src="https://chat.openai.com/mnt/data/A_digital_artwork_features_the_name_\"ANANTHKRIZ\"_d.png" alt="ANANTHKRIZ Banner" />
-</p>
+</p>  
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=AnanthKriz&label=Profile%20views" alt="A-N-A-N-T-H-K-R-I-Z" style="width: 150px;" />  
+</p>  
 
-<h1 align="center">💀 - ANANTHKRIZ 💻</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Python+Wizard+%F0%9F%94%AE;Stealth+Tool+Dev+%F0%9F%95%B3%EF%B8%8F;Termux+%7C+Linux+%7C+BlackArch+%7C+Windows+%F0%9F%92%BB;Digital+Venom+Spreader+%F0%9F%A4%AB" alt="Typing SVG" />
-</p>
+<div align="center">   
+  <a href="mailto:ananthkrishnan394@gmail.com">  
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />  
+  </a>  
+  <a href="https://wa.me/9847192542" target="_blank">  
+    <img src="https://img.shields.io/badge/whatsapp-008000?style=for-the-badge&logo=whatsapp&logoColor=white" />  
+  </a>  
+  <a href="https://instagram.com/imxxkriz" target="_blank">  
+    <img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&l" />  
+  </a>  
+</div>  
 
----
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>  
+<br/>  
 
-### 🧠 About Me
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html" />  
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs" />  
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="python" />  
+</div>  
 
-- 🕷️ I build stealth tools that watch in silence.
-- 💻 Obsessed with zero-permission webcam access, IP tracking, and Python payloads.
-- ⚡ Running SPYDEL across Termux, Kali, Parrot, Windows, and more.
+<hr/>  
 
----
+<div align="center">  
+  <h2>🐍 My Contributions 🐍</h2>  
+<br>    
+      <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/A-S-W-I-N-S-P-A-R-K-Y/A-S-W-I-N-S-P-A-R-K-Y/output/github-contribution-grid-snake.svg" />  <br/><br/><br/>  </div>  <hr/>  <h2 align="center">⚡ Stats ⚡</
 
-### 🔥 Projects
+<hr/>  
 
-- [`SPYDEL`](https://github.com/AnanthKriz/-SPYDEL-v1.5-Kriz) – Stealth camera RAT with terminal UI and phishing shell  
-- **KRIZCAM-HAX** – Silent webcam exploit with no popup  
-- **Payload Modules** – Coming soon… venom in code 🐍
+<h2 align="center">⚡ GitHub Stats ⚡</h2>  
+<br/>  
 
----
+<div align="center">  
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AnanthKriz&count_private=true&theme=react&border_radius=10" alt="streak stats" />  
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=AnanthKriz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />  
+  <br/>  
+  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AnanthKriz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />  
+</div>  
 
-### 🧩 Tech Stack
+<hr/>  
+<br/>  
 
-```bash
-🧠 Languages:     Python, Node.js, Shell
-🧰 Tools:         Termux, Git, Ngrok, Kali Linux, BlackArch
-🎯 Focus:         RATs, IP Logging, Webcam Capture, Stealth Phishing
+<div align="center">  
+  <a href="https://ko-fi.com/aswinsparky" target="_blank">  
+    <img height="64" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" alt="Buy Me a Coffee" />  
+  </a>  
+</div>
