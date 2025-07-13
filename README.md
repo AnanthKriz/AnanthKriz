@@ -2,7 +2,7 @@
   <img src="https://chat.openai.com/mnt/data/A_digital_artwork_features_the_name_\"ANANTHKRIZ\"_d.png" alt="ANANTHKRIZ Banner" />
 </p>
 
-<h1 align="center">💀 HACKING QUEEN - ANANTHKRIZ 💻</h1>
+<h1 align="center">💀 - ANANTHKRIZ 💻</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Python+Wizard+%F0%9F%94%AE;Stealth+Tool+Dev+%F0%9F%95%B3%EF%B8%8F;Termux+%7C+Linux+%7C+BlackArch+%7C+Windows+%F0%9F%92%BB;Digital+Venom+Spreader+%F0%9F%A4%AB" alt="Typing SVG" />
 </p>
