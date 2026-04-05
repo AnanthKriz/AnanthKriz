@@ -1,4 +1,4 @@
-![Aswin Sparky's card name](https://sparkycardview.vercel.app/api?name=ANANT%20KRIZ&description=🖥️+🖤+ɪ+ᴡʀɪᴛᴇ.+ɪ+ʙʀᴇᴀᴋ.+ʏᴏᴜ+sʟᴇᴇᴘ.+ɪ+ᴇxᴇᴄᴜᴛᴇ.&image=https://avatars.githubusercontent.com/u/147124584?v=4&backgroundColor=%23ecf0f1&instagram=imxxkriz&linkedin=aananth-kriz&github=AnanthKriz&pattern=leaf&colorPattern=%23eaeaea)
+![Ananth kriz's card name](https://sparkycardview.vercel.app/api?name=ANANT%20KRIZ&description=🖥️+🖤+ɪ+ᴡʀɪᴛᴇ.+ɪ+ʙʀᴇᴀᴋ.+ʏᴏᴜ+sʟᴇᴇᴘ.+ɪ+ᴇxᴇᴄᴜᴛᴇ.&image=https://avatars.githubusercontent.com/u/147124584?v=4&backgroundColor=%23ecf0f1&instagram=imxxkriz&linkedin=ananth-kriz&github=AnanthKriz&pattern=leaf&colorPattern=%23eaeaea)
 
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=AnanthKriz&label=Profile%20views" alt="A-N-A-N-T-H-K-R-I-Z" style="width: 150px;" />  
@@ -48,7 +48,7 @@
 <br/>  
 
 <div align="center">  
-  <a href="https://ko-fi.com/aswinsparky" target="_blank">  
+  <a href="https://ko-fi.com/ananthkriz" target="_blank">  
     <img height="64" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" alt="Buy Me a Coffee" />  
   </a>  
 </div>
