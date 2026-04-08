@@ -1,4 +1,4 @@
-![Ananth kriz's card name](https://sparkycardview.vercel.app/api?name=ANANT%20KRIZ&description=🖥️+🖤+ɪ+ᴡʀɪᴛᴇ.+ɪ+ʙʀᴇᴀᴋ.+ʏᴏᴜ+sʟᴇᴇᴘ.+ɪ+ᴇxᴇᴄᴜᴛᴇ.&image=https://avatars.githubusercontent.com/u/147124584?v=4&backgroundColor=%23ecf0f1&instagram=imxxkriz&linkedin=ananth-kriz&github=AnanthKriz&pattern=leaf&colorPattern=%23eaeaea)
+![Ananth kriz's card name](https://sparkycardview.vercel.app/api?name=ANANTH%20KRIZ&description=🖥️+🖤+ɪ+ᴡʀɪᴛᴇ.+ɪ+ʙʀᴇᴀᴋ.+ʏᴏᴜ+sʟᴇᴇᴘ.+ɪ+ᴇxᴇᴄᴜᴛᴇ.&image=https://avatars.githubusercontent.com/u/147124584?v=4&backgroundColor=%23ecf0f1&instagram=imxxkriz&linkedin=ananth-kriz&github=AnanthKriz&pattern=leaf&colorPattern=%23eaeaea)
 
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=AnanthKriz&label=Profile%20views" alt="A-N-A-N-T-H-K-R-I-Z" style="width: 150px;" />  
